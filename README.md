@@ -1,4 +1,7 @@
 # Optimizing Meal Plans for Nutritional Requirements and Personal Preference
+
+Link to [Dissertation Paper](https://github.com/tep00018/Optimizing-Meal-Plans-for-Nutritional-Requirements-and-Personal-Preference/blob/5b7df6fe4d78c493ae0076b29051117aee78b01c/Optimizing%20Meal%20Plans%20for%20Nutritional%20Requirements%20Dissertation_3038117.pdf)
+
 This project proposes a menu planning optimization tool that constrains for a caloric target and optimizes for nutrients and user ratings. Three bespoke multi-objective optimization algorithms have been developed: [Random Search (RS)](https://github.com/tep00018/Optimizing-Meal-Plans-for-Nutritional-Requirements-and-Personal-Preference/blob/a7a9c5d6c3d25c269451886744c2fbc088058a27/MPP%20Random%20Search%20Algorithm.ipynb), [Genetic Algorithm (GA)](https://github.com/tep00018/Optimizing-Meal-Plans-for-Nutritional-Requirements-and-Personal-Preference/blob/8529fcb3a11cb69c0e7e48c395a794bfce1644b9/MPP%20Genetic%20Algorithm.ipynb), and [Memetic Algorithm (MA)](https://github.com/tep00018/Optimizing-Meal-Plans-for-Nutritional-Requirements-and-Personal-Preference/blob/d137de85650a4d9babb8b4345ecb073ac2791ae1/MPP%20Memetic%20Algorithm.ipynb). These optimization algorithms can further advance a human-in-the-loop personalized recommendation system that learned and adapts to each individual's preferences.
 
 Background:
